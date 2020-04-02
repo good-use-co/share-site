@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4N4RL7C5HQ.com.gooduseco.app.staging",
+                "paths": ["/shares/*"]
+            },
+            {
+                "appID": "4N4RL7C5HQ.com.gooduseco.app.development",
+                "paths": ["/shares/*"]
+            },
+            {
+                "appID": "4N4RL7C5HQ.com.gooduseco.app.production",
+                "paths": ["/*"]
+            }
+        ]
+    }
+}
