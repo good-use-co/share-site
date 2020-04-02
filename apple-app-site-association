@@ -12,7 +12,7 @@
             },
             {
                 "appID": "4N4RL7C5HQ.com.gooduseco.app.production",
-                "paths": ["*"]
+                "paths": ["/*"]
             }
         ]
     }
